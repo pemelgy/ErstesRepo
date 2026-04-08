@@ -1,4 +1,4 @@
-# AI Job-Markt 2024/2025 - Datengetriebene, globale Analyse der Einflussfaktoren auf Gehalt, Jobpotenziale sowie Sklill-Anforderungen mit Prognosen mittels Machine-Learning 
+# AI Job-Markt 2024/2025 - Datengetriebene, globale Analyse der Einflussfaktoren auf Gehalt, Jobpotenziale sowie Skill-Anforderungen mit Prognosen mittels Machine-Learning 
 
 Dieses Projekt liefert einen Überblick über den globalen AI-Job Markt und zeigt wichtige und wissenswerte Erkenntnisse insbesondere hinsichtlich der Gehaltspotenziale und deren Einflussfaktoren.
 
