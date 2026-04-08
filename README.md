@@ -34,7 +34,7 @@ Dieses Repository enthält:
   Analyse in Tableau fortzusetzen 
 - um die Verteilung der Job-Skills auf die einzelnen Datensätze zu ermitteln haben wir die Tabelle mit
   Power Query bearbeitet so dass ein neues Arbeitsblatt in der Excel-Datei entstanden ist mit nur drei Spalten job_id, required_skills und einer Indexspalte. Somit konnten über eine One-to-Many-Beziehung in Power Query die required_skills anhand der job_id auf die einzelnen Datensätze verteilt werden
-- auf Grund des sehr großen Datenumfangs mit rund 19000 Zeilen habe ich darauf verzichtet den Datensatz
+- auf Grund des sehr großen Datenumfangs mit rund 190000 Zeilen habe ich darauf verzichtet den Datensatz
   in GitHub zu laden
 - die Quelle der Ursprungsdateien war Kaggle, leider ist der Datensatz aktuell dort nicht mehr 
   verfügbar
